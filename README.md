@@ -19,10 +19,10 @@ A simple and effective command-line application to track your daily expenses usi
 
 ```
 
-expense\_tracker.py     # Main Python script
-expenses.db            # SQLite database (auto-created)
+expnse.py               # Main Python script
+expenses.db             # SQLite database (auto-created)
 expenses\_export.csv    # Optional CSV export file
-README.md              # Project documentation
+README.md               # Project documentation
 
 ````
 
